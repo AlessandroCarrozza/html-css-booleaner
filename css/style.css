@@ -1,6 +1,6 @@
 header{
     height: 150px;
-    background-color: #5aabe9;
+    background-color: #4ea3fa;
     background-image: url("../img/pattern.png");
     background-size: contain;
 }
@@ -8,3 +8,24 @@ header{
 #logo{
     margin: 60px 0 0 10px;
 }
+
+.skyblue{
+    color: #3eb4e8;
+}
+
+h1{
+    margin-bottom: 0;
+}
+
+.info-writer{
+    color: gray;
+}
+
+.small-font{
+    font-size: 0.8em;
+}
+
+.tim-photos{
+    margin-top: 20px;
+}
+
