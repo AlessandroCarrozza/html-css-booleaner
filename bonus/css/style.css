@@ -1,0 +1,74 @@
+header{
+    height: 150px;
+    background-color: #4ea3fa;
+    background-image: url("../img/pattern.png");
+    background-size: contain;
+}
+
+#logo{
+    margin: 60px 0 0 10px;
+}
+
+.skyblue{
+    color: #3eb4e8;
+}
+
+h1{
+    margin-bottom: 0;
+}
+
+.info-writer{
+    color: gray;
+}
+
+.small-font{
+    font-size: 0.8em;
+}
+
+.tim-photos{
+    margin-top: 20px;
+}
+
+table{
+    margin-top: 30px;
+    width: 100%;
+    text-align: left;
+}
+
+.table-top{
+    background-color: #25ace4;
+    color: white;
+}
+
+.table-skyblue{
+    background-color: #a0dcf4;
+}
+
+.last-row{
+    width: 45%;
+}
+
+h3{
+    margin-top: 50px;
+    color: gray;
+}
+
+.image{
+    width: 312px;
+    height: 208px;
+    color: white;
+}
+
+.monitor{
+    background-image: url("../img/monitor.jpg");
+}
+
+.graph{
+    background-image: url("../img/graph.jpg");
+    margin-top: 15px;
+}
+
+h2{
+    padding-left: 10px;
+    padding-top: 10px;
+}
